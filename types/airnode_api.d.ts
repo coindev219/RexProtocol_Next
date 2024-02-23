@@ -1,0 +1,1 @@
+declare module "@api3/airnode-api"
